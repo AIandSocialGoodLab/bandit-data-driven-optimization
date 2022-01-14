@@ -1,0 +1,7 @@
+Code for the food rescue volunteer recommendation experiments in Section 5.2
+
+The required python packages are in requirements.txt
+
+You also need to install optimization tools Gurobi and IPOPT to run the code.
+
+Due to confidentiality agreement with our partner organization, we are not able to provide the dataset.

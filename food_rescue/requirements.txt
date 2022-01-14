@@ -1,0 +1,10 @@
+cvxpy==1.0.25
+matplotlib==3.3.3
+seaborn==0.8.1
+numpy==1.15.4
+Pyomo==5.5.1
+pandas==0.23.0
+torch==1.0.0
+scipy==1.2.0
+gurobipy==5.0.2
+scikit_learn==0.24.1
